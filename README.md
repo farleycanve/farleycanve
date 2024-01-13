@@ -62,7 +62,7 @@
             alt="golang">
     </a>
     <a href="https://react.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/reactjs.svg" with="50" height="50"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs.svg" with="50" height="50"
             alt="reactjs">
     </a>
     <a href="https://www.docker.com/">
